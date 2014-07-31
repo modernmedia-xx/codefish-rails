@@ -3,4 +3,5 @@ Codefish
 
 This application is used for screencast tutorials about how to set up Codeship projects with Ruby on Rails applications.
 
-![Codeship Status](https://www.codeship.io/projects/f134ea80-0cd3-0131-8052-366ad2a83d89/status)
+![Codeship Status for modernmedia-xx/codefish-rails]
+(https://codeship.io/projects/41b25680-fafe-0131-1e8f-52190bbde1aa/status)](https://codeship.io/projects/29128)
